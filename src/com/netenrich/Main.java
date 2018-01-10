@@ -9,7 +9,7 @@ public class Main {
 		input = new Scanner(System.in);
 		System.out.println("1.Register");
 		System.out.println("2.Login");
-		System.out.println("Enter A Number Corresponding To Your Option(hi):");
+		System.out.println("Enter A Number Corresponding To Your Option(hello):");
 		int choice = input.nextInt();
 		if (choice == 1){
 			System.out.println("Enter First Name:");
