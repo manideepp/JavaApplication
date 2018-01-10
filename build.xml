@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<!--
-hello hi
--->
 <project name="java-junit-template-project" default="run" basedir=".">
   <property name="version" value="3.0.0"/>
   <property name="main.build.dir" value="build/main" />
