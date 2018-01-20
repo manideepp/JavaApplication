@@ -18,6 +18,7 @@ public class Main {
 			String last_name = input.next();
 			System.out.println("Enter Email ID:");
 			String email_id = input.next();
+			System.out.println("Hi");
 			System.out.println("Enter Password:");
 			String password = input.next();
 			Register register = new Register(first_name,last_name,email_id,password);
