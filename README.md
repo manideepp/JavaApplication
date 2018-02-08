@@ -4,3 +4,4 @@ README is added
 JUST ADDED> BUT CHEKING AGAIN.
 should build a job
 Lets see what happens
+munGITlo gelika
